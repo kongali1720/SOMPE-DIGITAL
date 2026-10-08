@@ -938,4 +938,3 @@ consider supporting continued development.
 <p align="center">
   Built for open research and technical understanding of modern gold-market infrastructure.
 </p>
-
