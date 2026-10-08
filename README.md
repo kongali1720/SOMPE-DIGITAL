@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  🇮🇩 WAJO DIGITAL
+   WAJO DIGITAL
 </h1>
 
 <h3 align="center">
